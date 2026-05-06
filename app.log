@@ -1,0 +1,204 @@
+nohup: ignoring input
+INFO:     Started server process [1330209]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[Lark] [2026-05-03 19:17:45,823] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7635623139184495798&access_key=d781306ef5cc534e995823bf7b97a79c&service_id=33554678&ticket=2257a897-a587-45a4-b10b-fbe0c5013ee8 [conn_id=7635623139184495798]
+INFO:     180.101.245.246:53826 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.228.53.46:29552 - "GET / HTTP/1.1" 404 Not Found
+INFO:     220.196.160.96:18334 - "GET /jsonrpc HTTP/1.1" 404 Not Found
+INFO:     220.196.160.73:25008 - "GET /mcp HTTP/1.1" 404 Not Found
+INFO:     89.248.164.165:50146 - "GET /images/js/eas/eas.js HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:61106 - "GET /e?n=6040529c869bd063ec05 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:24054 - "GET /e?n=d554c0389d6d8c3d735c HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:46564 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:45070 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:45150 - "POST /mcp HTTP/1.1" 404 Not Found
+INFO:     167.94.146.49:45160 - "POST /jsonrpc HTTP/1.1" 404 Not Found
+INFO:     167.94.146.49:39606 - "POST / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:13674 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     165.22.91.107:27777 - "GET / HTTP/1.0" 404 Not Found
+INFO:     198.235.24.64:58044 - "GET /v1/metadata HTTP/1.1" 404 Not Found
+INFO:     65.49.1.172:2276 - "GET / HTTP/1.1" 404 Not Found
+INFO:     65.49.1.177:59861 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     65.49.1.177:27749 - "GET /?format=json HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:12442 - "GET /e?n=43bbecc096bbfb285f7e HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     193.46.255.155:34026 - "GET / HTTP/1.1" 404 Not Found
+INFO:     193.46.255.155:34026 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.208:62160 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.130.103.35:50694 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.130.103.35:48250 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     220.196.160.45:36886 - "GET /v1/metadata HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:64120 - "GET /e?n=99c4fe226b6cacf1cec1 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     18.218.118.203:50566 - "GET / HTTP/1.1" 404 Not Found
+INFO:     18.218.118.203:52696 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     147.185.132.243:58520 - "GET /metrics HTTP/1.1" 404 Not Found
+INFO:     147.185.132.243:58530 - "GET /metrics HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     91.230.168.150:43067 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.214:48581 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     172.93.106.153:48932 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.93.106.153:48934 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     172.93.106.153:48932 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     172.93.106.153:48934 - "GET /mcp HTTP/1.1" 404 Not Found
+INFO:     172.93.106.153:48932 - "GET /.well-known/mcp.json HTTP/1.1" 404 Not Found
+INFO:     172.93.106.153:48934 - "GET /.well-known/agent.json HTTP/1.1" 404 Not Found
+INFO:     172.93.106.153:48932 - "GET /invocations HTTP/1.1" 404 Not Found
+INFO:     220.196.160.95:52864 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     66.228.53.174:31458 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.236.119.165:57982 - "GET / HTTP/1.1" 404 Not Found
+INFO:     204.76.203.51:63506 - "GET /e?n=b99bdc5a73743f917645 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     195.178.110.204:52734 - "GET / HTTP/1.0" 404 Not Found
+INFO:     176.65.149.35:38098 - "GET / HTTP/1.1" 404 Not Found
+INFO:     204.76.203.51:22270 - "GET /e?n=857814423fbf29b7b4c4 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     142.93.224.178:33430 - "POST /api/client/update?arch=amd64&commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17&os=windows HTTP/1.1" 404 Not Found
+INFO:     172.236.228.222:54060 - "GET / HTTP/1.1" 404 Not Found
+INFO:     59.83.208.106:39362 - "GET / HTTP/1.1" 404 Not Found
+INFO:     180.101.245.253:26654 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:17448 - "GET /e?n=17e8f6f293b96e638b0e HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.186.201:20530 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.186.201:9192 - "POST /mcp HTTP/1.1" 404 Not Found
+INFO:     66.132.186.201:9208 - "POST /jsonrpc HTTP/1.1" 404 Not Found
+INFO:     66.132.186.201:9216 - "POST / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.186.201:55772 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     89.248.164.165:34834 - "GET /images/js/eas/eas.js HTTP/1.1" 404 Not Found
+INFO:     20.169.105.51:57760 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.85:59234 - "GET / HTTP/1.1" 404 Not Found
+INFO:     147.185.132.132:61140 - "GET /v1/metadata HTTP/1.1" 404 Not Found
+INFO:     172.235.40.131:8942 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.156.66:4788 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.156.76:54193 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:12616 - "GET /e?n=51a9eec17fa180866833 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     64.62.156.71:62599 - "GET /?format=json HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     18.218.118.203:46194 - "GET / HTTP/1.1" 404 Not Found
+INFO:     18.218.118.203:50456 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:16294 - "GET /e?n=4797e6cc1de9c7833d3a HTTP/1.1" 404 Not Found
+INFO:     192.155.90.220:38930 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     172.236.228.115:37178 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     180.97.221.93:54310 - "GET / HTTP/1.1" 404 Not Found
+INFO:     180.97.221.93:54326 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     138.197.155.194:42270 - "GET / HTTP/1.1" 404 Not Found
+INFO:     138.197.155.194:42286 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     81.70.158.211:45442 - "GET / HTTP/1.1" 404 Not Found
+INFO:     81.70.158.211:46404 - "GET / HTTP/1.1" 404 Not Found
+INFO:     81.70.158.211:43964 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     185.242.226.87:34692 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.236.228.245:2450 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:56744 - "GET /e?n=5b07258a8bcbc00982bc HTTP/1.1" 404 Not Found
+INFO:     204.76.203.51:11574 - "GET /e?n=0924f142443410465ce1 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:10514 - "GET /e?n=4322ced323f802459c8f HTTP/1.1" 404 Not Found
+INFO:     87.236.176.92:43463 - "GET / HTTP/1.1" 404 Not Found
+INFO:     199.45.155.83:4682 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.155.83:11322 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.155.83:50862 - "POST /mcp HTTP/1.1" 404 Not Found
+INFO:     199.45.155.83:50918 - "POST /jsonrpc HTTP/1.1" 404 Not Found
+INFO:     199.45.155.83:47356 - "POST / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     199.45.155.83:6558 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     129.211.162.110:30805 - "GET / HTTP/1.1" 404 Not Found
+INFO:     220.196.160.83:49936 - "GET /mcp HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.123.144.13:35906 - "GET / HTTP/1.1" 404 Not Found
+INFO:     204.76.203.51:47812 - "GET /e?n=7eece9b6e9de2fdc4b33 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:49170 - "GET /e?n=3029cbcd0fee28485a1f HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.196:64002 - "GET /v1/metadata HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     89.248.164.165:33320 - "GET /images/js/eas/eas.js HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     204.76.203.51:29522 - "GET /e?n=8c319a0bb3f7e76b0886 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.142.154.112:57540 - "GET /api/v2/heartbeat HTTP/1.1" 404 Not Found
+INFO:     45.142.154.112:57838 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.142.154.112:58094 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.142.154.112:58138 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.142.154.107:33270 - "GET /api/v2/heartbeat HTTP/1.1" 404 Not Found
+INFO:     45.142.154.107:33444 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.142.154.107:33516 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.142.154.107:33588 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     204.76.203.51:62728 - "GET /e?n=4ec35ea497af5df20f21 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     129.211.167.166:42834 - "GET /api/v2/heartbeat HTTP/1.1" 404 Not Found
+INFO:     3.130.168.2:58138 - "GET / HTTP/1.1" 404 Not Found
+INFO:     220.196.160.65:32480 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.130.168.2:49346 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.243:61522 - "GET / HTTP/1.1" 404 Not Found
+INFO:     184.105.247.254:34200 - "GET / HTTP/1.1" 404 Not Found
+INFO:     184.105.247.251:64491 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     184.105.247.244:30385 - "GET /?format=json HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     3.134.216.108:51112 - "GET / HTTP/1.1" 404 Not Found
+INFO:     3.134.216.108:39044 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.33.80.243:53644 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.137:62238 - "GET /metrics HTTP/1.1" 404 Not Found
+INFO:     205.210.31.163:64310 - "GET /metrics HTTP/1.1" 404 Not Found
