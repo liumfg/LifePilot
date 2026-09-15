@@ -13,6 +13,22 @@ A small server-side health reminder assistant for Feishu/Lark chat.
 - Feishu bot callback endpoint for chat commands
 - Scheduled proactive reminders
 
+## Demo
+
+LifePilot works directly in Feishu/Lark chat: it sends proactive reminders,
+understands natural-language updates, tracks daily progress, and summarizes
+recent habits for review.
+
+<p align="center">
+  <img src="docs/images/demo-reminder.jpg" alt="Hydration reminder and meal suggestion" width="30%" />
+  <img src="docs/images/demo-tracking.jpg" alt="Natural-language tracking and exercise reminder" width="30%" />
+  <img src="docs/images/demo-review.jpg" alt="Daily habit review" width="30%" />
+</p>
+
+<p align="center">
+  <sub>Proactive reminders · Natural-language tracking · Daily habit review</sub>
+</p>
+
 ## Quick Start
 
 ```bash
